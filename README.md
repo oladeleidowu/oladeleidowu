@@ -3,7 +3,7 @@
 </div>
 
 
-## About me
+# About me
 - 👨🏻‍💻 I’m Oladele Idowu 
 - 🖥 I'm Software Developer
 - 🇳🇬 I'm from Nigeria

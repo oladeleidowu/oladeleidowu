@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div> Hi there👋 I'm Oladele Idowu a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬</div>
+  <div> # Hi there👋 I'm Oladele Idowu a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬</div>
 </div>
 
 
@@ -46,6 +46,7 @@
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
   ![Youtube](https://img.shields.io/badge/youtube-%2396060C.svg?style=for-the-badge&logo=youtube&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![W3 School](https://img.shields.io/badge/W3School-A435F0?style=for-the-badge&logo=W3%2School&logoColor=white)
   
 ## Contact me ☎️
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bimcode)

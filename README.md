@@ -28,6 +28,7 @@
    
 ## Education 🎓 
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-23F05033?style=for-the-badge&logo=google&logoColor=white)
   
   
 ## Contact me

@@ -24,6 +24,7 @@
  ## Databases 🛢
    ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   
 ## Version Control 🕓 
    ![GitHub](https://img.shields.io/badge/github-34495E.svg?style=for-the-badge&logo=github&logoColor=white)

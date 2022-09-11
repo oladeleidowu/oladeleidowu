@@ -29,7 +29,7 @@
    
 ## Education 🎓 
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![Youtube](https://img.shields.io/badge/youtube-FF6C37?style=for-the-badge&logo=youtube&logoColor=white)
+  ![Youtube](https://img.shields.io/badge/youtube-2396060C?style=for-the-badge&logo=youtube&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
   
 ## Contact me

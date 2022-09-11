@@ -49,6 +49,8 @@
   ![W3 School](https://img.shields.io/badge/W3%20School-168363?style=for-the-badge&logo=W3-School&logoColor=white)
   ![Sololearn](https://img.shields.io/badge/sololearn-%2396060C.svg?style=for-the-badge&logo=sololearn&logoColor=white)
   ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![NewHorizons](https://img.shields.io/badge/New%20Horizons-%23323330.svg?style=for-the-badge&logo=horizon&logoColor=%23F7DF1E)
   
 ## Contact me ☎️
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bimcode)

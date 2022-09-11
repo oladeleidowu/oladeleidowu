@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif"  width="400" height="200/>
-</div>
 
 
 ## About me

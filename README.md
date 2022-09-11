@@ -20,6 +20,7 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-258FFA?style=for-the-badge&logo=docker&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+  ![RESTfulAPI](https://img.shields.io/badge/RESTfulAPI-005571?style=for-the-badge&logo=RESTfulAPI)
 
  ## Databases 🛢
    ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)

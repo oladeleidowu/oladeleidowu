@@ -47,7 +47,7 @@
   ![Youtube](https://img.shields.io/badge/youtube-%2396060C.svg?style=for-the-badge&logo=youtube&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![W3 School](https://img.shields.io/badge/W3%20School-168363?style=for-the-badge&logo=W3-School&logoColor=white)
-  ![Sololearn](https://img.shields.io/badge/Sololearn-232C3454?style=for-the-badge&logo=Sololearn&logoColor=#d16c06)
+  ![Sololearn](https://img.shields.io/badge/sololearn-%2396060C.svg?style=for-the-badge&logo=sololearn&logoColor=white)
   ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
   
 ## Contact me ☎️

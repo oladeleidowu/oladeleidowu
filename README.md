@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
- <div id="header" align="center"> I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.</div>
+ <div id="header" align="center"> Hi 👋, I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬 .</div>
 </div>
 
 
 # About me
 - 👨🏻‍💻 I’m Oladele Idowu 
 - 🖥 I'm Software Developer
-- 🇳🇬 I'm from Nigeria
+- 📍 I'm from Nigeria
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.

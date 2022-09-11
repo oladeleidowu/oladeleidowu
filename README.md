@@ -1,5 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-# <p align="center">Hi there👋 I'm Oladele Idowu </p>
+<p align="center">Hi there👋 I'm Oladele Idowu </p>
+
 ## About me
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript

@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript
 - 👌 I love playing COD mobile and watching animes
-- 📫 You can connect with me on [Twitter](https://twitter.com/yusuf_Designs)
+- 📫 You can connect with me on [Twitter](https://twitter.com/https:/bimcode)
 
 ## Tech stack
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +19,5 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yusuf_Designs)
   
 ## Stats
-[![Yusufs's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true&&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
-[![YusufsDesigns wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YusufsDesigns&theme=radical)](https://github.com/YusufsDesigns/github-readme-stats)
+[![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)
+

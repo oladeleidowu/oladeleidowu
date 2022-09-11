@@ -19,5 +19,5 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yusuf_Designs)
   
 ## Stats
-[![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufsDesigns&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)
+[![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)
 

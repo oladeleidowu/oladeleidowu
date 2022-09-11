@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif"  width="400" height="200/>
+  <img src="https://media.giphy.com/media/AIdGhVzDyXioKnLya7/giphy.gif"  width="400" height="30/>
+                                                                                             
   <div> # Hi there👋 I'm Oladele Idowu a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > from Nigeria 🇳🇬</div>
 </div>
 

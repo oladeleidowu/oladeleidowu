@@ -28,7 +28,8 @@
    
 ## Education 🎓 
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-2300f?style=for-the-badge&logo=google&logoColor=white)
+  ![Youtube](https://img.shields.io/badge/youtube-2300f?style=for-the-badge&logo=youtube&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
   
 ## Contact me
   [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bimcode)

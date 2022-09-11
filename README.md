@@ -18,7 +18,7 @@
   
   ## Contact me
 ![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bimcode)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abimbola0915/)
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abimbola0915/)
   
 ## Stats
 [![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)

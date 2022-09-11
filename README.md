@@ -71,7 +71,6 @@
 [![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=Email&logoColor=white&color=23F7DF1E)](mailto:abimbollah@outlook.com/)
   
 
-
 ## Stats
 [![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)
 

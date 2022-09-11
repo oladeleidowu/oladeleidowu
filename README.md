@@ -16,7 +16,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
   ## Contact me
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yusuf_Designs)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bimcode)
   
 ## Stats
 [![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)

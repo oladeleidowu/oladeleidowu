@@ -2,6 +2,9 @@
 
 
 ## About me
+- 👨🏻‍💻 I’m Oladele Idowu 
+- 🖥 I'm Software Developer
+- 🇳🇬 I'm from Nigeria
 - 🔭 I’m currently working on developing my skills further
 - 🌱 I’m currently learning JavaScript
 - 👌 I love playing COD mobile and watching animes

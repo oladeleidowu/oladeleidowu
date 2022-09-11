@@ -19,7 +19,7 @@
 
  ## Databases 🛢
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   
 ## Version Control 🕓 
    ![GitHub](https://img.shields.io/badge/github-34495E.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -28,7 +28,7 @@
    
 ## Education 🎓 
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-23F05033?style=for-the-badge&logo=google&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-23E34F26?style=for-the-badge&logo=google&logoColor=white)
   
   
 ## Contact me

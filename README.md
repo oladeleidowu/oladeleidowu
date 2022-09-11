@@ -21,6 +21,7 @@
   ![Docker](https://img.shields.io/badge/Docker-258FFA?style=for-the-badge&logo=docker&logoColor=white)
   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
   ![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=RESTful-API)
+  ![JHipster](https://img.shields.io/badge/JHipster-258FFA?style=for-the-badge&logo=jhipster&logoColor=white)
 
  ## Databases 🛢
    ![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)

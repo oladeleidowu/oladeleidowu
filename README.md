@@ -37,8 +37,7 @@
 ## Contact me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/bimcode)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abimbola0915/)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348029958673)
-  
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Profile-informational?style=flat&logo=WhatsApp&logoColor=white&color=25D366)](https://wa.me/+2348029958673)
   
 ## Stats
 [![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)

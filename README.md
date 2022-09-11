@@ -40,7 +40,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abimbola0915/)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Profile-informational?style=flat&logo=WhatsApp&logoColor=white&color=25D366)](https://wa.me/+2348029958673)
 [![MyPortfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=Portfolio&logoColor=white&color=ffcd00)](https://oladeleidowu.github.io/)
-[![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=Email&logoColor=white&color=ffcd00)](mailto: abimbollah@outlook.com)
+[![Email Badge](https://img.shields.io/badge/Email-Profile-informational?style=flat&logo=Email&logoColor=white&color=ffcd00)](mailto:abimbollah@outlook.com/)
   
 
 

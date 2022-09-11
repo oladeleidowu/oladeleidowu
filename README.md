@@ -6,17 +6,6 @@
 - 👌 I love playing COD mobile and watching animes
 - 📫 You can connect with me on [Twitter](https://twitter.com/https:/bimcode)
 
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [5 Basic Tips for Angular Unit Testing](https://braydoncoyer.dev/blog/5-basic-tips-for-angular-unit-testing)
-- [Learn How to Click a Button when Angular Unit Testing](https://braydoncoyer.dev/blog/learn-how-to-click-a-button-when-angular-unit-testing)
-- [Enable Autocomplete for Tailwind CSS in VSCode](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-- [What Makes a Unit Test Valuable?](https://braydoncoyer.dev/blog/what-makes-a-unit-test-valuable)
-- [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://braydoncoyer.dev/blog/you-don't-need-a-cs-degree-to-land-a-web-development-job)
-<!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ## Tech stack 🖥
 
@@ -52,6 +41,20 @@
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Profile-informational?style=flat&logo=WhatsApp&logoColor=white&color=25D366)](https://wa.me/+2348029958673)
 [![MyPortfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=Portfolio&logoColor=white&color=ffcd00)](https://oladeleidowu.github.io/)
   
+<br>
+
+<a href="https://github.com/oladeleidowu/BimBookWeb">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oladeleidowu&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/oladeleidowu/student-management-system">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=oladeleidowu&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
 ## Stats
 [![Oladele's GitHub stats](https://github-readme-stats.vercel.app/api?username=oladeleidowu&show_icons=true&&theme=radical)](https://github.com/oladeleidowu)
 

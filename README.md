@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div> I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</div>
+  <div> Hi there👋 I'm Oladele Idowu a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬</div>
 </div>
 
-
-
-<p align="center">Hi there👋 I'm Oladele Idowu </p>
 
 ## About me
 - 🔭 I’m currently working on developing my skills further

@@ -44,7 +44,7 @@
    
 ## Education 🎓 
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![YabaTech](https://img.shields.io/badge/Yabatech-A435F0?style=for-the-badge&logo=Yabatech&logoColor=white)
+  ![YabaTech](https://img.shields.io/badge/Yabatech-%23F8DC75?style=for-the-badge&logo=Yabatech&logoColor=black)
   ![Youtube](https://img.shields.io/badge/youtube-%2396060C.svg?style=for-the-badge&logo=youtube&logoColor=white)
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![W3 School](https://img.shields.io/badge/W3%20School-168363?style=for-the-badge&logo=W3-School&logoColor=white)

@@ -6,7 +6,6 @@
 </div>
 
 
-
 # About me
 - 👨🏻‍💻 I’m Oladele Idowu 
 - 🖥 I'm Software Developer

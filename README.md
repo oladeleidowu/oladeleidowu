@@ -11,7 +11,7 @@
 - 🖥 I'm Software Developer
 - 📍 I'm from Nigeria
 - 🔭 I’m currently working on developing my skills further
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Kubernetes
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 👌 I love playing COD mobile and watching animes
 - 📫 You can connect with me on [![MyPortfolio Badge](https://img.shields.io/badge/Portfolio-Profile-informational?style=flat&logo=Portfolio&logoColor=white&color=ffcd00)](https://oladeleidowu.github.io/)

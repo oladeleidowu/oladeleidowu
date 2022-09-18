@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="/images/OladeleIdowu.png" alt="">
  <div id="header" align="center"> Hi 👋, I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </div>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=oladeleidowu&style=flat-square&color=blue" alt=""></p>
